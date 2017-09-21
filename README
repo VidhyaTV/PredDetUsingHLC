@@ -1,0 +1,32 @@
+This code find multiple Weak Conjunctive Predicates snapshots.
+
+Its algorithm is based on Garg's algorithm.
+
+There is two way to find multiple snapshot:
+    1. When find a consistent snapshot (all colors are GREEN), we just make all RED
+       and move to find the next (via function call globalToken.reset())
+
+    2. When find a consistent snapshot (all colors are GREEN), just mark the color
+       corresponding to the smallest HVC to be RED, then move to find next (via globalToken.resetSmallest();)
+    
+    Method 2 is prefered since:
+        + Its find much more number of consistent snapshot. For example, with the parameter setting
+          of:          
+            epsilon: 100005
+            number_of_processes: 50
+            localPredRate (beta): 0.05
+            delta: 10
+            run_up_to: 100000
+            prob_matrix: Random
+            topology: CompleteGraph
+          one simulation run of method 1 found 4786 snapshots while one simulation run of method 2
+          found 249459 snapshots.
+    We careful when turning on the _DEBUG feature with method 2 because it will produce debugging
+    file of size 10GB.
+ 
+ To the program:
+    Run the bash script simulationscript.sh
+ 
+ To plot the result:
+    Run the bash script plotscript.sh
+    

@@ -1,0 +1,827 @@
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,     62):       161       151       151       151       151
+[GREEN] (    1,     24):       155       165       155       155       155
+[GREEN] (    2,     37):       146       146       156       146       146
+[GREEN] (    3,     69):       146       146       146       156       146
+[GREEN] (    4,     23):       147       147       147       147       157
+By P4	0	:(161:0);(167:1)
+	1	:(165:0);(167:1)
+	2	:(153:0);(164:0)
+	3	:(159:0);(164:0)
+	4	:(161:0);(164:0)
+	
+was accepted
+By P3	0	:(161:0);(167:1)
+	1	:(165:0);(167:1)
+	2	:(153:0);(164:0)
+	3	:(159:0);(164:0)
+	4	:(161:0);(164:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,     92):       234       224       224       224       224
+[GREEN] (    1,     59):       226       236       226       226       226
+[GREEN] (    2,     45):       227       227       237       227       227
+[GREEN] (    3,     84):       232       232       232       242       232
+[GREEN] (    4,     61):       223       223       223       223       233
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    204):       557       547       547       547       547
+[GREEN] (    1,    137):       548       558       548       548       548
+[GREEN] (    2,    147):       556       556       566       556       556
+[GREEN] (    3,    133):       554       554       554       564       554
+[GREEN] (    4,    133):       547       547       547       547       557
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    224):       623       613       613       613       613
+[GREEN] (    1,    153):       611       621       611       611       611
+[GREEN] (    2,    159):       604       604       614       604       604
+[GREEN] (    3,    160):       605       605       605       615       605
+[GREEN] (    4,    152):       606       606       606       606       616
+By P4	0	:(623:0);(627:1)
+	1	:(621:0);(628:1)
+	2	:(620:0);(623:1)
+	3	:(615:0);(621:1)
+	4	:(620:0);(621:1)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    228):       643       633       633       633       633
+[GREEN] (    1,    166):       633       643       633       633       633
+[GREEN] (    2,    174):       642       642       652       642       642
+[GREEN] (    3,    179):       633       633       633       643       633
+[GREEN] (    4,    166):       639       639       639       639       649
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    271):       857       847       847       847       847
+[GREEN] (    1,    196):       847       857       847       847       847
+[GREEN] (    2,    217):       856       856       866       856       856
+[GREEN] (    3,    262):       847       847       847       857       847
+[GREEN] (    4,    230):       847       847       847       847       857
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    305):       968       958       958       958       958
+[GREEN] (    1,    245):       958       968       958       958       958
+[GREEN] (    2,    246):       963       963       973       963       963
+[GREEN] (    3,    291):       967       967       967       977       967
+[GREEN] (    4,    273):       960       960       960       960       970
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    307):       984       974       974       974       974
+[GREEN] (    1,    247):       971       981       971       971       971
+[GREEN] (    2,    247):       969       969       979       969       969
+[GREEN] (    3,    292):       968       968       968       978       968
+[GREEN] (    4,    278):       965       965       965       965       975
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    322):      1009       999       999       999       999
+[GREEN] (    1,    269):      1004      1014      1004      1004      1004
+[GREEN] (    2,    271):       999       999      1009       999       999
+[GREEN] (    3,    303):       999       999       999      1009       999
+[GREEN] (    4,    284):      1008      1008      1008      1008      1018
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    350):      1067      1057      1057      1057      1057
+[GREEN] (    1,    281):      1057      1067      1057      1057      1057
+[GREEN] (    2,    289):      1065      1065      1075      1065      1065
+[GREEN] (    3,    332):      1063      1063      1063      1073      1063
+[GREEN] (    4,    291):      1066      1066      1066      1066      1076
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    396):      1209      1199      1199      1199      1199
+[GREEN] (    1,    356):      1199      1209      1199      1199      1199
+[GREEN] (    2,    336):      1199      1199      1209      1199      1199
+[GREEN] (    3,    376):      1199      1199      1199      1209      1199
+[GREEN] (    4,    316):      1208      1208      1208      1208      1218
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    481):      1494      1484      1484      1484      1484
+[GREEN] (    1,    485):      1484      1494      1484      1484      1484
+[GREEN] (    2,    418):      1484      1484      1494      1484      1484
+[GREEN] (    3,    471):      1493      1493      1493      1503      1493
+[GREEN] (    4,    395):      1490      1490      1490      1490      1500
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    545):      1704      1694      1694      1694      1694
+[GREEN] (    1,    534):      1686      1696      1686      1686      1686
+[GREEN] (    2,    489):      1686      1686      1696      1686      1686
+[GREEN] (    3,    516):      1695      1695      1695      1705      1695
+[GREEN] (    4,    480):      1686      1686      1686      1686      1696
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    664):      2060      2050      2050      2050      2050
+[GREEN] (    1,    661):      2050      2060      2050      2050      2050
+[GREEN] (    2,    583):      2050      2050      2060      2050      2050
+[GREEN] (    3,    620):      2055      2055      2055      2065      2055
+[GREEN] (    4,    575):      2059      2059      2059      2059      2069
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    683):      2138      2128      2128      2128      2128
+[GREEN] (    1,    675):      2121      2131      2121      2121      2121
+[GREEN] (    2,    604):      2119      2119      2129      2119      2119
+[GREEN] (    3,    651):      2124      2124      2124      2134      2124
+[GREEN] (    4,    597):      2119      2119      2119      2119      2129
+By P0	0	:(2311:0);(2312:1)
+	1	:(2321:0);(2326:1)
+	2	:(2315:0);(2321:1)
+	3	:(2311:0);(2321:1)
+	4	:(2305:0);(2312:1)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    778):      2329      2319      2319      2319      2319
+[GREEN] (    1,    729):      2311      2321      2311      2311      2311
+[GREEN] (    2,    672):      2310      2310      2320      2310      2310
+[GREEN] (    3,    686):      2310      2310      2310      2320      2310
+[GREEN] (    4,    657):      2317      2317      2317      2317      2327
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    779):      2330      2320      2320      2320      2320
+[GREEN] (    1,    732):      2314      2324      2314      2314      2314
+[GREEN] (    2,    673):      2323      2323      2333      2323      2323
+[GREEN] (    3,    690):      2314      2314      2314      2324      2314
+[GREEN] (    4,    658):      2318      2318      2318      2318      2328
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    820):      2510      2500      2500      2500      2500
+[GREEN] (    1,    778):      2494      2504      2494      2494      2494
+[GREEN] (    2,    738):      2494      2494      2504      2494      2494
+[GREEN] (    3,    743):      2494      2494      2494      2504      2494
+[GREEN] (    4,    720):      2503      2503      2503      2503      2513
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    861):      2626      2616      2616      2616      2616
+[GREEN] (    1,    820):      2622      2632      2622      2622      2622
+[GREEN] (    2,    803):      2617      2617      2627      2617      2617
+[GREEN] (    3,    759):      2614      2614      2614      2624      2614
+[GREEN] (    4,    765):      2623      2623      2623      2623      2633
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    864):      2629      2619      2619      2619      2619
+[GREEN] (    1,    821):      2623      2633      2623      2623      2623
+[GREEN] (    2,    805):      2619      2619      2629      2619      2619
+[GREEN] (    3,    760):      2628      2628      2628      2638      2628
+[GREEN] (    4,    766):      2624      2624      2624      2624      2634
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    872):      2639      2629      2629      2629      2629
+[GREEN] (    1,    826):      2628      2638      2628      2628      2628
+[GREEN] (    2,    810):      2632      2632      2642      2632      2632
+[GREEN] (    3,    765):      2633      2633      2633      2643      2633
+[GREEN] (    4,    771):      2637      2637      2637      2637      2647
+By P0	0	:(2639:0);(2639:1)
+	1	:(2634:2);(2643:0)
+	2	:(2642:0);(2643:0)
+	3	:(2638:0);(2643:0)
+	4	:(2633:0);(2639:1)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    928):      2762      2752      2752      2752      2752
+[GREEN] (    1,    850):      2758      2768      2758      2758      2758
+[GREEN] (    2,    843):      2761      2761      2771      2761      2761
+[GREEN] (    3,    792):      2757      2757      2757      2767      2757
+[GREEN] (    4,    803):      2752      2752      2752      2752      2762
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,    944):      2845      2835      2835      2835      2835
+[GREEN] (    1,    861):      2844      2854      2844      2844      2844
+[GREEN] (    2,    868):      2840      2840      2850      2840      2840
+[GREEN] (    3,    823):      2841      2841      2841      2851      2841
+[GREEN] (    4,    818):      2839      2839      2839      2839      2849
+By P3	0	:(2845:0);(2856:0)
+	1	:(2854:0);(2857:1)
+	2	:(2850:0);(2856:0)
+	3	:(2851:0);(2855:1)
+	4	:(2849:0);(2855:1)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1034):      3065      3055      3055      3055      3055
+[GREEN] (    1,    934):      3058      3068      3058      3058      3058
+[GREEN] (    2,    888):      3057      3057      3067      3057      3057
+[GREEN] (    3,    897):      3055      3055      3055      3065      3055
+[GREEN] (    4,    862):      3064      3064      3064      3064      3074
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1053):      3192      3182      3182      3182      3182
+[GREEN] (    1,    993):      3182      3192      3182      3182      3182
+[GREEN] (    2,    931):      3182      3182      3192      3182      3182
+[GREEN] (    3,    934):      3191      3191      3191      3201      3191
+[GREEN] (    4,    895):      3183      3183      3183      3183      3193
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1058):      3197      3187      3187      3187      3187
+[GREEN] (    1,    998):      3193      3203      3193      3193      3193
+[GREEN] (    2,    936):      3187      3187      3197      3187      3187
+[GREEN] (    3,    939):      3196      3196      3196      3206      3196
+[GREEN] (    4,    900):      3188      3188      3188      3188      3198
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1119):      3353      3343      3343      3343      3343
+[GREEN] (    1,   1044):      3343      3353      3343      3343      3343
+[GREEN] (    2,    988):      3343      3343      3353      3343      3343
+[GREEN] (    3,    981):      3343      3343      3343      3353      3343
+[GREEN] (    4,    950):      3352      3352      3352      3352      3362
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1131):      3420      3410      3410      3410      3410
+[GREEN] (    1,   1057):      3405      3415      3405      3405      3405
+[GREEN] (    2,   1017):      3401      3401      3411      3401      3401
+[GREEN] (    3,    992):      3410      3410      3410      3420      3410
+[GREEN] (    4,    976):      3402      3402      3402      3402      3412
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1147):      3443      3433      3433      3433      3433
+[GREEN] (    1,   1068):      3436      3446      3436      3436      3436
+[GREEN] (    2,   1019):      3433      3433      3443      3433      3433
+[GREEN] (    3,   1003):      3442      3442      3442      3452      3442
+[GREEN] (    4,    996):      3439      3439      3439      3439      3449
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1195):      3781      3771      3771      3771      3771
+[GREEN] (    1,   1191):      3762      3772      3762      3762      3762
+[GREEN] (    2,   1108):      3766      3766      3776      3766      3766
+[GREEN] (    3,   1095):      3765      3765      3765      3775      3765
+[GREEN] (    4,   1123):      3762      3762      3762      3762      3772
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1245):      3936      3926      3926      3926      3926
+[GREEN] (    1,   1262):      3924      3934      3924      3924      3924
+[GREEN] (    2,   1159):      3924      3924      3934      3924      3924
+[GREEN] (    3,   1141):      3929      3929      3929      3939      3929
+[GREEN] (    4,   1160):      3920      3920      3920      3920      3930
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1250):      3941      3931      3931      3931      3931
+[GREEN] (    1,   1269):      3931      3941      3931      3931      3931
+[GREEN] (    2,   1166):      3931      3931      3941      3931      3931
+[GREEN] (    3,   1144):      3932      3932      3932      3942      3932
+[GREEN] (    4,   1163):      3940      3940      3940      3940      3950
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1297):      4086      4076      4076      4076      4076
+[GREEN] (    1,   1296):      4068      4078      4068      4068      4068
+[GREEN] (    2,   1183):      4074      4074      4084      4074      4074
+[GREEN] (    3,   1185):      4077      4077      4077      4087      4077
+[GREEN] (    4,   1203):      4072      4072      4072      4072      4082
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1298):      4093      4083      4083      4083      4083
+[GREEN] (    1,   1302):      4085      4095      4085      4085      4085
+[GREEN] (    2,   1185):      4076      4076      4086      4076      4076
+[GREEN] (    3,   1186):      4078      4078      4078      4088      4078
+[GREEN] (    4,   1207):      4076      4076      4076      4076      4086
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1337):      4345      4335      4335      4335      4335
+[GREEN] (    1,   1381):      4334      4344      4334      4334      4334
+[GREEN] (    2,   1271):      4334      4334      4344      4334      4334
+[GREEN] (    3,   1240):      4343      4343      4343      4353      4343
+[GREEN] (    4,   1300):      4336      4336      4336      4336      4346
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1340):      4360      4350      4350      4350      4350
+[GREEN] (    1,   1391):      4347      4357      4347      4347      4347
+[GREEN] (    2,   1278):      4356      4356      4366      4356      4356
+[GREEN] (    3,   1244):      4347      4347      4347      4357      4347
+[GREEN] (    4,   1308):      4347      4347      4347      4347      4357
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1343):      4363      4353      4353      4353      4353
+[GREEN] (    1,   1394):      4350      4360      4350      4350      4350
+[GREEN] (    2,   1281):      4359      4359      4369      4359      4359
+[GREEN] (    3,   1247):      4350      4350      4350      4360      4350
+[GREEN] (    4,   1311):      4359      4359      4359      4359      4369
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1368):      4408      4398      4398      4398      4398
+[GREEN] (    1,   1407):      4407      4417      4407      4407      4407
+[GREEN] (    2,   1305):      4405      4405      4415      4405      4405
+[GREEN] (    3,   1270):      4398      4398      4398      4408      4398
+[GREEN] (    4,   1336):      4398      4398      4398      4398      4408
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1398):      4475      4465      4465      4465      4465
+[GREEN] (    1,   1422):      4469      4479      4469      4469      4469
+[GREEN] (    2,   1317):      4474      4474      4484      4474      4474
+[GREEN] (    3,   1284):      4469      4469      4469      4479      4469
+[GREEN] (    4,   1375):      4465      4465      4465      4465      4475
+-1
+maximum physical time difference between all pairs of processes : 8
+[GREEN] (    0,   1405):      4484      4474      4474      4474      4474
+[GREEN] (    1,   1428):      4475      4485      4475      4475      4475
+[GREEN] (    2,   1323):      4480      4480      4490      4480      4480
+[GREEN] (    3,   1290):      4475      4475      4475      4485      4475
+[GREEN] (    4,   1381):      4482      4482      4482      4482      4492
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1446):      4655      4645      4645      4645      4645
+[GREEN] (    1,   1459):      4636      4646      4636      4636      4636
+[GREEN] (    2,   1390):      4637      4637      4647      4637      4637
+[GREEN] (    3,   1321):      4640      4640      4640      4650      4640
+[GREEN] (    4,   1447):      4644      4644      4644      4644      4654
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1452):      4661      4651      4651      4651      4651
+[GREEN] (    1,   1467):      4644      4654      4644      4644      4644
+[GREEN] (    2,   1396):      4647      4647      4657      4647      4647
+[GREEN] (    3,   1327):      4653      4653      4653      4663      4653
+[GREEN] (    4,   1453):      4650      4650      4650      4650      4660
+By P4	0	:(4655:1);(4666:0)
+	1	:(4644:0);(4655:0)
+	2	:(4653:1);(4655:0)
+	3	:(4650:0);(4655:0)
+	4	:(4654:0);(4655:0)
+	
+was accepted
+By P2	0	:(4655:1);(4666:0)
+	1	:(4644:0);(4655:0)
+	2	:(4653:1);(4655:0)
+	3	:(4650:0);(4655:0)
+	4	:(4654:0);(4655:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1512):      4821      4811      4811      4811      4811
+[GREEN] (    1,   1513):      4810      4820      4810      4810      4810
+[GREEN] (    2,   1431):      4802      4802      4812      4802      4802
+[GREEN] (    3,   1362):      4802      4802      4802      4812      4802
+[GREEN] (    4,   1501):      4802      4802      4802      4802      4812
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1648):      5353      5343      5343      5343      5343
+[GREEN] (    1,   1645):      5347      5357      5347      5347      5347
+[GREEN] (    2,   1581):      5343      5343      5353      5343      5343
+[GREEN] (    3,   1498):      5352      5352      5352      5362      5352
+[GREEN] (    4,   1616):      5343      5343      5343      5343      5353
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1702):      5457      5447      5447      5447      5447
+[GREEN] (    1,   1674):      5438      5448      5438      5438      5438
+[GREEN] (    2,   1614):      5446      5446      5456      5446      5446
+[GREEN] (    3,   1538):      5443      5443      5443      5453      5443
+[GREEN] (    4,   1650):      5438      5438      5438      5438      5448
+-1
+maximum physical time difference between all pairs of processes : 8
+[GREEN] (    0,   1707):      5462      5452      5452      5452      5452
+[GREEN] (    1,   1681):      5446      5456      5446      5446      5446
+[GREEN] (    2,   1619):      5451      5451      5461      5451      5451
+[GREEN] (    3,   1543):      5448      5448      5448      5458      5448
+[GREEN] (    4,   1655):      5454      5454      5454      5454      5464
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1852):      5981      5971      5971      5971      5971
+[GREEN] (    1,   1821):      5979      5989      5979      5979      5979
+[GREEN] (    2,   1772):      5970      5970      5980      5970      5970
+[GREEN] (    3,   1681):      5970      5970      5970      5980      5970
+[GREEN] (    4,   1804):      5970      5970      5970      5970      5980
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1863):      6021      6011      6011      6011      6011
+[GREEN] (    1,   1823):      6002      6012      6002      6002      6002
+[GREEN] (    2,   1789):      6002      6002      6012      6002      6002
+[GREEN] (    3,   1697):      6004      6004      6004      6014      6004
+[GREEN] (    4,   1814):      6002      6002      6002      6002      6012
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1954):      6271      6261      6261      6261      6261
+[GREEN] (    1,   1886):      6266      6276      6266      6266      6266
+[GREEN] (    2,   1873):      6261      6261      6271      6261      6261
+[GREEN] (    3,   1767):      6270      6270      6270      6280      6270
+[GREEN] (    4,   1925):      6261      6261      6261      6261      6271
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   1977):      6420      6410      6410      6410      6410
+[GREEN] (    1,   1925):      6415      6425      6415      6415      6415
+[GREEN] (    2,   1908):      6406      6406      6416      6406      6406
+[GREEN] (    3,   1815):      6407      6407      6407      6417      6407
+[GREEN] (    4,   1988):      6411      6411      6411      6411      6421
+-1
+maximum physical time difference between all pairs of processes : 8
+[GREEN] (    0,   1978):      6493      6483      6483      6483      6483
+[GREEN] (    1,   1939):      6481      6491      6481      6481      6481
+[GREEN] (    2,   1920):      6478      6478      6488      6478      6478
+[GREEN] (    3,   1848):      6477      6477      6477      6487      6477
+[GREEN] (    4,   2011):      6475      6475      6475      6475      6485
+By P4	0	:(6493:0);(6504:0)
+	1	:(6491:0);(6501:1)
+	2	:(6488:0);(6489:1)
+	3	:(6488:0);(6489:1)
+	4	:(6488:0);(6489:1)
+	
+was accepted
+By P3	0	:(6493:0);(6504:0)
+	1	:(6491:0);(6501:1)
+	2	:(6488:0);(6489:1)
+	3	:(6488:0);(6489:1)
+	4	:(6488:0);(6489:1)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2002):      6578      6568      6568      6568      6568
+[GREEN] (    1,   1951):      6575      6585      6575      6575      6575
+[GREEN] (    2,   1932):      6566      6566      6576      6566      6566
+[GREEN] (    3,   1890):      6566      6566      6566      6576      6566
+[GREEN] (    4,   2029):      6570      6570      6570      6570      6580
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2023):      6692      6682      6682      6682      6682
+[GREEN] (    1,   1990):      6691      6701      6691      6691      6691
+[GREEN] (    2,   1968):      6685      6685      6695      6685      6685
+[GREEN] (    3,   1913):      6689      6689      6689      6699      6689
+[GREEN] (    4,   2040):      6690      6690      6690      6690      6700
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2064):      6837      6827      6827      6827      6827
+[GREEN] (    1,   2041):      6833      6843      6833      6833      6833
+[GREEN] (    2,   2007):      6829      6829      6839      6829      6829
+[GREEN] (    3,   1950):      6836      6836      6836      6846      6836
+[GREEN] (    4,   2073):      6836      6836      6836      6836      6846
+By P3	0	:(6837:0);(6848:0)
+	1	:(6843:0);(6854:0)
+	2	:(6839:0);(6850:0)
+	3	:(6846:0);(6848:0)
+	4	:(6846:0);(6848:0)
+	
+was accepted
+By P0	0	:(6837:0);(6848:0)
+	1	:(6843:0);(6854:0)
+	2	:(6839:0);(6850:0)
+	3	:(6846:0);(6848:0)
+	4	:(6846:0);(6848:0)
+	
+By P1	0	:(6837:0);(6848:0)
+	1	:(6843:0);(6848:0)
+	2	:(6839:0);(6850:0)
+	3	:(6846:0);(6848:0)
+	4	:(6846:0);(6848:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2075):      6876      6866      6866      6866      6866
+[GREEN] (    1,   2052):      6867      6877      6867      6867      6867
+[GREEN] (    2,   2023):      6858      6858      6868      6858      6858
+[GREEN] (    3,   1964):      6858      6858      6858      6868      6858
+[GREEN] (    4,   2088):      6858      6858      6858      6858      6868
+-1
+maximum physical time difference between all pairs of processes : 7
+[GREEN] (    0,   2077):      6878      6868      6868      6868      6868
+[GREEN] (    1,   2054):      6869      6879      6869      6869      6869
+[GREEN] (    2,   2029):      6872      6872      6882      6872      6872
+[GREEN] (    3,   1972):      6868      6868      6868      6878      6868
+[GREEN] (    4,   2090):      6875      6875      6875      6875      6885
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2119):      6969      6959      6959      6959      6959
+[GREEN] (    1,   2074):      6955      6965      6955      6955      6955
+[GREEN] (    2,   2049):      6961      6961      6971      6961      6961
+[GREEN] (    3,   1999):      6952      6952      6952      6962      6952
+[GREEN] (    4,   2111):      6952      6952      6952      6952      6962
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2123):      6973      6963      6963      6963      6963
+[GREEN] (    1,   2082):      6963      6973      6963      6963      6963
+[GREEN] (    2,   2052):      6964      6964      6974      6964      6964
+[GREEN] (    3,   2002):      6972      6972      6972      6982      6972
+[GREEN] (    4,   2114):      6963      6963      6963      6963      6973
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2233):      7268      7258      7258      7258      7258
+[GREEN] (    1,   2211):      7257      7267      7257      7257      7257
+[GREEN] (    2,   2121):      7257      7257      7267      7257      7257
+[GREEN] (    3,   2055):      7266      7266      7266      7276      7266
+[GREEN] (    4,   2161):      7257      7257      7257      7257      7267
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2273):      7460      7450      7450      7450      7450
+[GREEN] (    1,   2274):      7448      7458      7448      7448      7448
+[GREEN] (    2,   2175):      7448      7448      7458      7448      7448
+[GREEN] (    3,   2116):      7449      7449      7449      7459      7449
+[GREEN] (    4,   2225):      7457      7457      7457      7457      7467
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2346):      7628      7618      7618      7618      7618
+[GREEN] (    1,   2331):      7627      7637      7627      7627      7627
+[GREEN] (    2,   2213):      7618      7618      7628      7618      7618
+[GREEN] (    3,   2163):      7618      7618      7618      7628      7618
+[GREEN] (    4,   2264):      7618      7618      7618      7618      7628
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2386):      7742      7732      7732      7732      7732
+[GREEN] (    1,   2341):      7734      7744      7734      7734      7734
+[GREEN] (    2,   2275):      7732      7732      7742      7732      7732
+[GREEN] (    3,   2196):      7738      7738      7738      7748      7738
+[GREEN] (    4,   2316):      7741      7741      7741      7741      7751
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2436):      7839      7829      7829      7829      7829
+[GREEN] (    1,   2381):      7827      7837      7827      7827      7827
+[GREEN] (    2,   2314):      7831      7831      7841      7831      7831
+[GREEN] (    3,   2224):      7822      7822      7822      7832      7822
+[GREEN] (    4,   2317):      7822      7822      7822      7822      7832
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2489):      8070      8060      8060      8060      8060
+[GREEN] (    1,   2479):      8069      8079      8069      8069      8069
+[GREEN] (    2,   2337):      8066      8066      8076      8066      8066
+[GREEN] (    3,   2321):      8062      8062      8062      8072      8062
+[GREEN] (    4,   2383):      8067      8067      8067      8067      8077
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2497):      8093      8083      8083      8083      8083
+[GREEN] (    1,   2484):      8074      8084      8074      8074      8074
+[GREEN] (    2,   2341):      8075      8075      8085      8075      8075
+[GREEN] (    3,   2329):      8074      8074      8074      8084      8074
+[GREEN] (    4,   2387):      8078      8078      8078      8078      8088
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2526):      8226      8216      8216      8216      8216
+[GREEN] (    1,   2541):      8225      8235      8225      8225      8225
+[GREEN] (    2,   2353):      8221      8221      8231      8221      8221
+[GREEN] (    3,   2385):      8216      8216      8216      8226      8216
+[GREEN] (    4,   2450):      8216      8216      8216      8216      8226
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2548):      8307      8297      8297      8297      8297
+[GREEN] (    1,   2584):      8297      8307      8297      8297      8297
+[GREEN] (    2,   2386):      8306      8306      8316      8306      8306
+[GREEN] (    3,   2401):      8298      8298      8298      8308      8298
+[GREEN] (    4,   2491):      8305      8305      8305      8305      8315
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2590):      8419      8409      8409      8409      8409
+[GREEN] (    1,   2624):      8409      8419      8409      8409      8409
+[GREEN] (    2,   2423):      8415      8415      8425      8415      8415
+[GREEN] (    3,   2434):      8407      8407      8407      8417      8407
+[GREEN] (    4,   2526):      8416      8416      8416      8416      8426
+-1
+maximum physical time difference between all pairs of processes : 7
+[GREEN] (    0,   2598):      8427      8417      8417      8417      8417
+[GREEN] (    1,   2632):      8417      8427      8417      8417      8417
+[GREEN] (    2,   2431):      8423      8423      8433      8423      8423
+[GREEN] (    3,   2442):      8421      8421      8421      8431      8421
+[GREEN] (    4,   2534):      8424      8424      8424      8424      8434
+By P3	0	:(8439:0);(8447:1)
+	1	:(8439:0);(8447:1)
+	2	:(8425:1);(8436:0)
+	3	:(8431:0);(8436:0)
+	4	:(8426:0);(8437:0)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2681):      8731      8721      8721      8721      8721
+[GREEN] (    1,   2703):      8712      8722      8712      8712      8712
+[GREEN] (    2,   2497):      8714      8714      8724      8714      8714
+[GREEN] (    3,   2517):      8712      8712      8712      8722      8712
+[GREEN] (    4,   2628):      8712      8712      8712      8712      8722
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2682):      8732      8722      8722      8722      8722
+[GREEN] (    1,   2707):      8728      8738      8728      8728      8728
+[GREEN] (    2,   2498):      8727      8727      8737      8727      8727
+[GREEN] (    3,   2524):      8719      8719      8719      8729      8719
+[GREEN] (    4,   2633):      8724      8724      8724      8724      8734
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2684):      8734      8724      8724      8724      8724
+[GREEN] (    1,   2708):      8729      8739      8729      8729      8729
+[GREEN] (    2,   2499):      8728      8728      8738      8728      8728
+[GREEN] (    3,   2525):      8733      8733      8733      8743      8733
+[GREEN] (    4,   2634):      8725      8725      8725      8725      8735
+-1
+maximum physical time difference between all pairs of processes : 8
+[GREEN] (    0,   2692):      8745      8735      8735      8735      8735
+[GREEN] (    1,   2716):      8737      8747      8737      8737      8737
+[GREEN] (    2,   2507):      8736      8736      8746      8736      8736
+[GREEN] (    3,   2533):      8741      8741      8741      8751      8741
+[GREEN] (    4,   2642):      8733      8733      8733      8733      8743
+By P2	0	:(8743:0);(8754:0)
+	1	:(8740:2);(8749:0)
+	2	:(8737:0);(8740:1)
+	3	:(8743:0);(8754:0)
+	4	:(8734:0);(8740:1)
+	
+was accepted
+By P4	0	:(8743:0);(8754:0)
+	1	:(8740:2);(8749:0)
+	2	:(8740:2);(8748:0)
+	3	:(8743:0);(8754:0)
+	4	:(8734:0);(8745:0)
+	
+By P0	0	:(8743:0);(8745:0)
+	1	:(8740:2);(8749:0)
+	2	:(8740:2);(8748:0)
+	3	:(8743:0);(8754:0)
+	4	:(8734:0);(8745:0)
+	
+By P3	0	:(8749:1);(8754:0)
+	1	:(8738:0);(8749:0)
+	2	:(8740:2);(8748:0)
+	3	:(8743:0);(8745:0)
+	4	:(8734:0);(8745:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2746):      8859      8849      8849      8849      8849
+[GREEN] (    1,   2740):      8857      8867      8857      8857      8857
+[GREEN] (    2,   2514):      8849      8849      8859      8849      8849
+[GREEN] (    3,   2557):      8858      8858      8858      8868      8858
+[GREEN] (    4,   2655):      8855      8855      8855      8855      8865
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2786):      8931      8921      8921      8921      8921
+[GREEN] (    1,   2766):      8921      8931      8921      8921      8921
+[GREEN] (    2,   2531):      8924      8924      8934      8924      8924
+[GREEN] (    3,   2573):      8925      8925      8925      8935      8925
+[GREEN] (    4,   2675):      8930      8930      8930      8930      8940
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2866):      9140      9130      9130      9130      9130
+[GREEN] (    1,   2797):      9122      9132      9122      9122      9122
+[GREEN] (    2,   2628):      9126      9126      9136      9126      9126
+[GREEN] (    3,   2606):      9121      9121      9121      9131      9121
+[GREEN] (    4,   2730):      9126      9126      9126      9126      9136
+By P4	0	:(9140:0);(9143:0)
+	1	:(9132:0);(9143:0)
+	2	:(9140:0);(9143:0)
+	3	:(9130:0);(9141:0)
+	4	:(9140:0);(9141:0)
+	
+was accepted
+By P3	0	:(9140:0);(9143:0)
+	1	:(9132:0);(9143:0)
+	2	:(9140:0);(9143:0)
+	3	:(9130:0);(9141:0)
+	4	:(9140:0);(9141:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2890):      9233      9223      9223      9223      9223
+[GREEN] (    1,   2847):      9229      9239      9229      9229      9229
+[GREEN] (    2,   2644):      9227      9227      9237      9227      9227
+[GREEN] (    3,   2621):      9220      9220      9220      9230      9220
+[GREEN] (    4,   2764):      9228      9228      9228      9228      9238
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2969):      9473      9463      9463      9463      9463
+[GREEN] (    1,   2960):      9454      9464      9454      9454      9454
+[GREEN] (    2,   2685):      9454      9454      9464      9454      9454
+[GREEN] (    3,   2679):      9454      9454      9454      9464      9454
+[GREEN] (    4,   2837):      9454      9454      9454      9454      9464
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2976):      9499      9489      9489      9489      9489
+[GREEN] (    1,   2976):      9489      9499      9489      9489      9489
+[GREEN] (    2,   2695):      9489      9489      9499      9489      9489
+[GREEN] (    3,   2701):      9498      9498      9498      9508      9498
+[GREEN] (    4,   2848):      9489      9489      9489      9489      9499
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   2982):      9510      9500      9500      9500      9500
+[GREEN] (    1,   2980):      9509      9519      9509      9509      9509
+[GREEN] (    2,   2706):      9502      9502      9512      9502      9502
+[GREEN] (    3,   2705):      9502      9502      9502      9512      9502
+[GREEN] (    4,   2858):      9500      9500      9500      9500      9510
+By P0	0	:(9509:0);(9512:0)
+	1	:(9519:0);(9520:0)
+	2	:(9512:0);(9520:0)
+	3	:(9508:0);(9519:0)
+	4	:(9501:0);(9512:0)
+	
+was accepted
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3046):      9706      9696      9696      9696      9696
+[GREEN] (    1,   3065):      9687      9697      9687      9687      9687
+[GREEN] (    2,   2763):      9693      9693      9703      9693      9693
+[GREEN] (    3,   2759):      9687      9687      9687      9697      9687
+[GREEN] (    4,   2889):      9696      9696      9696      9696      9706
+-1
+maximum physical time difference between all pairs of processes : 5
+[GREEN] (    0,   3049):      9709      9699      9699      9699      9699
+[GREEN] (    1,   3068):      9701      9711      9701      9701      9701
+[GREEN] (    2,   2766):      9696      9696      9706      9696      9696
+[GREEN] (    3,   2763):      9700      9700      9700      9710      9700
+[GREEN] (    4,   2892):      9699      9699      9699      9699      9709
+By P4	0	:(9706:1);(9717:0)
+	1	:(9711:0);(9711:1)
+	2	:(9703:0);(9711:1)
+	3	:(9711:0);(9711:1)
+	4	:(9711:0);(9711:1)
+	
+was accepted
+By P1	0	:(9706:1);(9717:0)
+	1	:(9711:0);(9711:1)
+	2	:(9703:0);(9711:1)
+	3	:(9711:0);(9711:1)
+	4	:(9711:0);(9711:1)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3057):      9739      9729      9729      9729      9729
+[GREEN] (    1,   3086):      9727      9737      9727      9727      9727
+[GREEN] (    2,   2777):      9727      9727      9737      9727      9727
+[GREEN] (    3,   2774):      9736      9736      9736      9746      9736
+[GREEN] (    4,   2912):      9727      9727      9727      9727      9737
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3077):      9768      9758      9758      9758      9758
+[GREEN] (    1,   3091):      9758      9768      9758      9758      9758
+[GREEN] (    2,   2782):      9767      9767      9777      9767      9767
+[GREEN] (    3,   2787):      9758      9758      9758      9768      9758
+[GREEN] (    4,   2917):      9766      9766      9766      9766      9776
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3082):      9810      9800      9800      9800      9800
+[GREEN] (    1,   3101):      9807      9817      9807      9807      9807
+[GREEN] (    2,   2793):      9802      9802      9812      9802      9802
+[GREEN] (    3,   2799):      9798      9798      9798      9808      9798
+[GREEN] (    4,   2936):      9798      9798      9798      9798      9808
+By P4	0	:(9817:0);(9820:1)
+	1	:(9817:0);(9820:1)
+	2	:(9817:0);(9820:1)
+	3	:(9817:0);(9820:1)
+	4	:(9817:0);(9820:1)
+	
+was accepted
+By P0	0	:(9817:0);(9820:1)
+	1	:(9817:0);(9820:1)
+	2	:(9817:0);(9820:1)
+	3	:(9817:0);(9820:1)
+	4	:(9817:0);(9820:1)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3093):      9836      9826      9826      9826      9826
+[GREEN] (    1,   3109):      9824      9834      9824      9824      9824
+[GREEN] (    2,   2809):      9824      9824      9834      9824      9824
+[GREEN] (    3,   2814):      9828      9828      9828      9838      9828
+[GREEN] (    4,   2950):      9833      9833      9833      9833      9843
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3112):      9869      9859      9859      9859      9859
+[GREEN] (    1,   3116):      9855      9865      9855      9855      9855
+[GREEN] (    2,   2826):      9864      9864      9874      9864      9864
+[GREEN] (    3,   2825):      9861      9861      9861      9871      9861
+[GREEN] (    4,   2961):      9855      9855      9855      9855      9865
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3120):      9877      9867      9867      9867      9867
+[GREEN] (    1,   3124):      9863      9873      9863      9863      9863
+[GREEN] (    2,   2834):      9872      9872      9882      9872      9872
+[GREEN] (    3,   2833):      9869      9869      9869      9879      9869
+[GREEN] (    4,   2969):      9866      9866      9866      9866      9876
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3142):      9955      9945      9945      9945      9945
+[GREEN] (    1,   3147):      9936      9946      9936      9936      9936
+[GREEN] (    2,   2848):      9944      9944      9954      9944      9944
+[GREEN] (    3,   2847):      9936      9936      9936      9946      9936
+[GREEN] (    4,   2987):      9944      9944      9944      9944      9954
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3147):      9960      9950      9950      9950      9950
+[GREEN] (    1,   3152):      9947      9957      9947      9947      9947
+[GREEN] (    2,   2853):      9949      9949      9959      9949      9949
+[GREEN] (    3,   2852):      9941      9941      9941      9951      9941
+[GREEN] (    4,   2992):      9949      9949      9949      9949      9959
+By P4	0	:(9955:0);(9966:0)
+	1	:(9953:0);(9959:1)
+	2	:(9954:0);(9959:1)
+	3	:(9946:0);(9957:0)
+	4	:(9954:0);(9957:0)
+	
+was accepted
+By P3	0	:(9955:0);(9966:0)
+	1	:(9953:0);(9959:1)
+	2	:(9954:0);(9959:1)
+	3	:(9946:0);(9957:0)
+	4	:(9954:0);(9957:0)
+	
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3157):      9993      9983      9983      9983      9983
+[GREEN] (    1,   3169):      9983      9993      9983      9983      9983
+[GREEN] (    2,   2873):      9983      9983      9993      9983      9983
+[GREEN] (    3,   2868):      9992      9992      9992     10002      9992
+[GREEN] (    4,   2998):      9986      9986      9986      9986      9996
+-1
+maximum physical time difference between all pairs of processes : 9
+[GREEN] (    0,   3159):      9995      9985      9985      9985      9985
+[GREEN] (    1,   3171):      9994     10004      9994      9994      9994
+[GREEN] (    2,   2875):      9985      9985      9995      9985      9985
+[GREEN] (    3,   2870):      9994      9994      9994     10004      9994
+[GREEN] (    4,   3000):      9988      9988      9988      9988      9998
+
+
+Run_0
+
+Total no. of cuts found by HLC: 15:
+HVC snapshot count:92
